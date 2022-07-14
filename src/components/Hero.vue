@@ -11,7 +11,10 @@ export default {
 
 <style>
 .hero{
-    height: 100px;
-    background-color: red;
+    height: 600px;
+    margin-top: 20px;
+    background-image:url('../assets/hero.jpg') ;
+    background-size: cover;
 }
+
 </style>
